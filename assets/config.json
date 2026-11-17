@@ -1,0 +1,9 @@
+{
+  "product": "Compose Stash",
+  "version": "2.4.7",
+  "channel": "beta",
+  "updated": "2026-11-17",
+  "mirror_region": "us-east",
+  "auto_update": true,
+  "telemetry": false
+}
